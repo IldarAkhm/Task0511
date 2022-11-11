@@ -1,0 +1,8 @@
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\bin\Debug\Task0511.exe.config
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\bin\Debug\Task0511.exe
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\bin\Debug\Task0511.pdb
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\obj\Debug\Task0511.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\obj\Debug\Task0511.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\obj\Debug\Task0511.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\obj\Debug\Task0511.exe
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\Task0511\obj\Debug\Task0511.pdb
