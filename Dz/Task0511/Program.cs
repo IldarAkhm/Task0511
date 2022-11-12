@@ -54,7 +54,7 @@ namespace Task0511
             if (A1 == B1) { Console.WriteLine("Сам себе задание не даш"); }
             Console.WriteLine("Введите название задачи");
             string C1 = Console.ReadLine();
-            Type A = Type.GetType("Task0511" + "." + A1, false, true); // получаем типы классов по имени(строке)
+            Type A = Type.GetType("Task0511" + "." + A1, false, true); // типы классов
             Type B = Type.GetType("Task0511" + "." + B1, false, true);
             Type C = Type.GetType("Task0511" + "." + C1, false, true);
             Console.WriteLine($"Итак, от {A1} дана задача {C1}  для {B1}.");

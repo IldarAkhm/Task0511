@@ -1,0 +1,8 @@
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\bin\Debug\TuMak.exe.config
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\bin\Debug\TuMak.exe
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\bin\Debug\TuMak.pdb
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\obj\Debug\TuMak.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\obj\Debug\TuMak.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\obj\Debug\TuMak.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\obj\Debug\TuMak.exe
+C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\obj\Debug\TuMak.pdb
