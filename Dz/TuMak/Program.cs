@@ -13,23 +13,6 @@ using Interface;
 
 namespace TuMak
 {
-    class Format : System.IFormattable
-    {
-        public string ToString(string format, IFormatProvider formatProvider)
-        {
-            if (format is String)
-            {
-                format = format as String;
-                return format;
-
-            }
-            else
-            {
-                return "не переводит";
-            }
-        }
-    }
-
     internal class Program
     {
         static void Main(string[] args)
@@ -44,14 +27,12 @@ namespace TuMak
             string a = "abvgd"; //8.2
             Console.WriteLine($"\n\nTask 8.2\n{ Program.Reverse(a)}\n\n");
 
-            Console.WriteLine("Task 8.3");
+            Console.WriteLine("Task 8.3"); //8.3
             string b;
             Console.WriteLine();
 
 
-            Console.WriteLine("Task 8.4");
-            Format format = new Format();
-            format.ToString("xyi",(IFormatProvider)format);
+           
 
 
             Console.Read();
