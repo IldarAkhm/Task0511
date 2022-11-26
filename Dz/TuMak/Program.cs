@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net.Http.Headers;
 using System.Runtime;
@@ -27,16 +28,31 @@ namespace TuMak
             string a = "abvgd"; //8.2
             Console.WriteLine($"\n\nTask 8.2\n{ Program.Reverse(a)}\n\n");
 
-            Console.WriteLine("Task 8.3"); //8.3
-            string b;
-            Console.WriteLine();
+            // task 8.3
+            Console.WriteLine("Enter a file name");
+            string f1 = Console.ReadLine();
+            Task83(f1);
 
 
-           
+
+
 
 
             Console.Read();
         }
+        static void Task83(string t)
+        {
+            if (Directory.GetFiles(@"C:\Users\ahmet\Desktop\DZ\Task0511\Task0511\Dz\TuMak\123").Contains(t))
+            {
+                FileInfo f1 = new FileInfo("file1.txt");
+                f1.CopyTo(t);
+            }
+            else
+            {
+                Environment.Exit(0);
+            }
+        }
+        
 
 
         public static string Reverse(string a)
