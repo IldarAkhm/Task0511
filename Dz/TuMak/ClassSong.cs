@@ -32,6 +32,7 @@ namespace TuMak
         }
         public override bool Equals(object obj)
         {
+            Song t=obj as Song
             if (obj is Song)
             {
                 if ($"{this.name} {this.author}" == Song.Title(obj as Song))
